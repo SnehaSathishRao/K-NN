@@ -4,13 +4,6 @@ KNN is the simplest machine learning algorithm used for classification and regre
 **Data:**
 I have used Amazon data which contains summary of reviews that is featurized using NLP techniques(Bag of words,TfIdf,Average word2vec,TfIdf word2vec) gives higher dimensional.The Amazon data that is been used has already been pre-processed and loaded.
 **Summary of ouputs**:  
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-
-
-| --- | --- || --- | --- |
 |          Model           | Hyper_parameter(K) |   Train f1-score   |   Test f1-score    |
 | --- | --- || --- | --- |
 |           BOW            |         11         | 0.9432983198569234 | 0.9433562731604023 |
