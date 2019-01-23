@@ -12,9 +12,3 @@ I have used Amazon data which contains summary of reviews that is featurized usi
 |          TF_IDF          |         7          | 0.9470129738238505 | 0.9471684672919388 |
 |       Avg Word2Vec       |         13         | 0.9455183640248245 | 0.9461533884690903 | 
 | TF_IDF_wieghted_Word2Vec |         17         | 0.9442105797027945 | 0.9458898832454218 | 
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
