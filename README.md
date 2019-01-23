@@ -7,7 +7,6 @@ I have used Amazon data which contains summary of reviews that is featurized usi
 
 |          Model           | Hyper_parameter(K) |   Train f1-score   |   Test f1-score    |
 | ------------- | ------------- |------------- | ------------- |
-|           BOW            |         11         | 0.9432983198569234 | 0.9433562731604023 |
 |           BOW            |         11         | 0.9432983198569234 | 0.9433562731604023 | 
 |          TF_IDF          |         7          | 0.9470129738238505 | 0.9471684672919388 |
 |       Avg Word2Vec       |         13         | 0.9455183640248245 | 0.9461533884690903 | 
